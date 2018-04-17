@@ -1,0 +1,33 @@
+h2 {
+	color:red;
+}
+
+.dois {
+	color: forestgreen;
+}
+
+.default {
+	color: blue;
+}
+
+.dois-p {
+	color:firebrick;
+}
+
+.ex {
+	font-family: Verdana;
+	font-size: 20px;
+	text-align: center;
+	color: red;
+	line-height: 2em;
+	border-width: thin;
+	border-style: solid;
+	border-color: black;
+}
+
+/* h2, p, .default {
+	
+}
+
+AGRUPANDO SELETORES */
+
